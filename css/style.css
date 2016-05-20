@@ -1,0 +1,162 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+margin: 0px;
+padding:0px;
+}
+
+body{
+	background-color:#F8F8FF;
+margin: 0px;
+padding:0px;
+
+}
+.reset{clear:both;}	
+.tab{
+	margin-right:20px;
+}
+.fest{
+	margin-left:60px;
+}
+
+.nav{
+
+	margin:20px auto;
+	
+	text-align: center;
+	
+}
+.content{
+	padding-left:20px;
+	margin: 50px auto;
+	padding-top: 20px;
+	padding-bottom:20px;
+	
+	box-shadow: 0px 0px 10px 10px  #9C9C9C;
+	border-radius:5px;
+	width:530px;
+}
+.end{
+	float: left;
+	margin-right:20px;
+		display:block;
+	
+	border-collapse:collapse;
+	border:1px solid black;
+}
+.end td{
+  padding:10px 10px 10px 10px;
+    border: 1px solid black; /* Рамка вокруг таблицы */
+   }
+
+.edit td{
+  padding:10px 10px 10px 10px;
+    border: 1px solid black; /* Рамка вокруг таблицы */
+   }
+
+.edit{
+	margin:20px auto;
+	border-collapse:collapse;
+	border:1px solid black;
+}
+.com{
+	border:1px solid black;
+	padding-top:10px;
+	padding-bottom:4px;
+	margin-top:5px;
+	width:30%;
+}
+	
+	
+	.auth{
+	padding: 20px 20px 20px 20px;
+	border-radius:5px;
+	width:350px;
+	border: 0px solid black;
+	margin:100px auto;
+	box-shadow: 0px 0px 60px 10px #B0E2FF inset; 
+}
+.td1 {
+	text-align:center !important;
+	font: bold  110% serit;
+}
+.tauth td{
+	text-align:left;
+}
+.tauth{
+	border-spacing: 1px 8px;
+}
+.tdlast{
+	float:right;
+}
+.header{
+	border: 0px solid black;
+	margin: 8px auto;
+	height:70px;
+	width:90%;
+	background-color:#CFCFCF;
+	border-radius:5px;
+}
+.logo1{
+	margin-left:5px;
+	padding-top:10px;
+	margin-top: 5px;
+	float:left;
+}
+.logoadminca{
+	margin-left:10%;
+}
+.login{
+	font-size:17px;
+	 font-weight: 800;
+}
+.avtor{
+	margin-right:12px;
+	margin: 22px auto;
+	border: 0px solid #8B4513;
+	box-shadow: 0px 0px 10px 10px  #9C9C9C;
+	border-radius:5px;
+	width:530px;
+}
+.l3{
+	border-right: 0px solid black !important;
+}
+.avtor  ul li{
+	color:#FFFFFF;
+	padding-right:10px;
+	padding-left:10px;
+	margin-right:0px;
+	display:inline-block;
+	border-right: 0px solid #8B4513;
+	height:25px;
+	width:auto;
+	
+	
+	
+}
+.avtor  a{
+	color:#FFFFFF;
+}	
+.avtor  ul {
+	background-color:#708090;
+	
+	
+	
+}
+.li13{
+	height:28px!important;
+	width:65px;
+	border-radius:5px;
+	background-color:#F5F5F5 !important;
+	padding:5px 15px 5px 15px;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
